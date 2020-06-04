@@ -1,4 +1,3 @@
-# Gaussian-Package
 
 ## Overview:
 
